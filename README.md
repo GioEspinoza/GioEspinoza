@@ -1,10 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on various certifications under edX in programming and artificial intelligence.
+- 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning computer science at Farmingdale State College
 - 👯 I’m looking to collaborate on anything.
-- 🤔 I’m looking for help with understanding machine learning.
-- 💬 Ask me about the modern day college student experience
-- 📫 How to reach me: on GitHub!
-- 😄 Pronouns: he/him
+- 🤔 I’m looking for help with web dev.
+- 💬 Ask me about my projects
+- 📫 How to reach me: giovanni.espinoza0@gmail.com
 - ⚡ Fun fact: I love playing soccer.
 
